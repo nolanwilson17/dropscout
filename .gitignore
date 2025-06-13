@@ -1,0 +1,7 @@
+.venv/
+# Streamlit cache
+.streamlit/
+# editor settings (optional)
+.vscode/
+# secrets
+.env
