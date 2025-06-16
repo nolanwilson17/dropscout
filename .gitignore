@@ -6,3 +6,8 @@
 .vscode/
 # secrets
 .env
+
+# build artefacts
+__pycache__/
+dropscout.egg-info/
+
