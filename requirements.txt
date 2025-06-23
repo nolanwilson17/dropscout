@@ -6,6 +6,7 @@ cachetools==5.5.2
 certifi==2025.4.26
 charset-normalizer==3.4.2
 click==8.2.1
+-e git+https://github.com/nolanwilson17/dropscout.git@5c83ffe74484035b9f1fba355214c9e7cb45e6a6#egg=dropscout
 gitdb==4.0.12
 GitPython==3.1.44
 idna==3.10
