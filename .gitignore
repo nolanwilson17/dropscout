@@ -11,3 +11,6 @@
 __pycache__/
 dropscout.egg-info/
 
+
+# cached product pages
+data/raw/
